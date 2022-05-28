@@ -1,0 +1,1117 @@
+# depslib dependency file v1.0
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/raudio.c
+	"raudio.h"
+	<stdarg.h>
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<windows.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	"propidl.h"
+	"external/miniaudio.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"external/stb_vorbis.h"
+	"external/jar_xm.h"
+	"external/jar_mod.h"
+	"external/dr_wav.h"
+	"external/dr_mp3.h"
+	"external/dr_flac.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/raudio.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1652898575 /media/djoker/code/linux/cpp/raylib/raylib-master/src/config.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/miniaudio.h
+	"miniaudio.h"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"extras/speex_resampler/ma_speex_resampler.h"
+	"extras/speex_resampler/ma_speex_resampler.h"
+	<pthread.h>
+	<stddef.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<sched.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<errno.h>
+	<stdint.h>
+	<intrin.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<unistd.h>
+	<dlfcn.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/stb_vorbis.h
+	<stdio.h>
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+	<alloca.h>
+	<limits.h>
+	<crtdbg.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/jar_xm.h
+	<stdint.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	"raylib.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/jar_mod.h
+	<stdio.h>
+	<stdlib.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/dr_wav.h
+	"dr_wav.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/dr_mp3.h
+	"dr_mp3.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/dr_flac.h
+	"dr_flac.h"
+	<stddef.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/rmodels.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"external/tinyobj_loader_c.h"
+	"external/cgltf.h"
+	"external/vox_loader.h"
+	"external/par_shapes.h"
+	<direct.h>
+	<unistd.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/raymath.h
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/tinyobj_loader_c.h
+	<stdio.h>
+	<assert.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/vox_loader.h
+	"vox_loader.h"
+	<string.h>
+	<stdlib.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/par_shapes.h
+	<stdint.h>
+	<stdbool.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<float.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/qoi.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/qoi.h
+	"qoi.h"
+	<stdlib.h>
+	<stdio.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1652902090 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/main.c
+	<stdio.h>
+	<stdlib.h>
+	"raygui.h"
+	"chipmunk.h"
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/rcamera.h
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1639770938 source:/media/djoker/code/linux/cpp/raylib/raylib-master/src/rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/include/GLFW/glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/posix_thread.h
+	<pthread.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/nsgl_context.h
+	<stdatomic.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_joystick.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/wgl_context.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/posix_time.h
+	<stdint.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/xkb_unicode.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/glx_context.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/null_joystick.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/egl_context.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/osmesa_context.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/mappings.h
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_time.c
+	"internal.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/xkb_unicode.c
+	"internal.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/null_joystick.c
+	"internal.h"
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/external/glfw/src/nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1639770938 /media/djoker/code/linux/cpp/raylib/raylib-master/src/extras/raygui.h
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+	"ricons.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/chipmunk.c
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	"chipmunk_private.h"
+	"chipmunk_ffi.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/chipmunk_private.h
+	"chipmunk.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/chipmunk.h
+	<stdlib.h>
+	<math.h>
+	"chipmunk_types.h"
+	"cpVect.h"
+	"cpBB.h"
+	"cpSpatialIndex.h"
+	"cpBody.h"
+	"cpShape.h"
+	"cpPolyShape.h"
+	"cpArbiter.h"
+	"constraints/cpConstraint.h"
+	"cpSpace.h"
+	"malloc.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/chipmunk_types.h
+	<stdint.h>
+	<float.h>
+	"TargetConditionals.h"
+	<ApplicationServices/ApplicationServices.h>
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpVect.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpBB.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpSpatialIndex.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpBody.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpShape.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpPolyShape.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpArbiter.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpConstraint.h
+	"cpPinJoint.h"
+	"cpSlideJoint.h"
+	"cpPivotJoint.h"
+	"cpGrooveJoint.h"
+	"cpDampedSpring.h"
+	"cpDampedRotarySpring.h"
+	"cpRotaryLimitJoint.h"
+	"cpRatchetJoint.h"
+	"cpGearJoint.h"
+	"cpSimpleMotor.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpPinJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpSlideJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpPivotJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpGrooveJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpDampedSpring.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpDampedRotarySpring.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpRotaryLimitJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpRatchetJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpGearJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/cpSimpleMotor.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/cpSpace.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/chipmunk_ffi.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpConstraint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/constraints/util.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpDampedRotarySpring.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpDampedSpring.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpGearJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpGrooveJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpPinJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpPivotJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpRatchetJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpRotaryLimitJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpSimpleMotor.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/constraints/cpSlideJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpArbiter.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpArray.c
+	<string.h>
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpBB.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpBBTree.c
+	"stdlib.h"
+	"stdio.h"
+	"chipmunk_private.h"
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpBody.c
+	<float.h>
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpCollision.c
+	<stdio.h>
+	<string.h>
+	"chipmunk_private.h"
+	"ChipmunkDemo.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpHashSet.c
+	"chipmunk_private.h"
+	"prime.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/prime.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpPolyShape.c
+	"chipmunk_private.h"
+	"chipmunk_unsafe.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/chipmunk/chipmunk_unsafe.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpShape.c
+	"chipmunk_private.h"
+	"chipmunk_unsafe.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSpace.c
+	<stdio.h>
+	<string.h>
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSpaceComponent.c
+	<string.h>
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSpaceHash.c
+	"chipmunk_private.h"
+	"prime.h"
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSpaceQuery.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSpaceStep.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSpatialIndex.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpSweep1D.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/raylib-master/raylib/chipmunk/src/cpVect.c
+	<stdio.h>
+	"chipmunk_private.h"
+
